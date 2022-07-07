@@ -1,9 +1,8 @@
 import React from 'react';
-import './App.css';
 
 // <> Custom components
 import ErrorBoundary from './components/ErrorBoundary';
-import Header from './components/Header';
+// import Header from './components/Header';
 import Resume from './components/Resume';
 
 // css
